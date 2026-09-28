@@ -49,7 +49,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Assignment No. | Title | Link |  
 | :---: | :---: | :---: |
-| 01 | Introduction to Digital Logic | [Lab 01](https://github.com/ashikinsultan/ECE-2112-2410056/blob/1fab42f62237e576c569afeed9935aa5c473251e/Labreports/Lab1.md)
+| 01 | Introduction to Digital Logic | [Lab 01](https://github.com/MUSFIK-AL-RAHIN-ROKTIM/ECE-2112_2410058/blob/main/LabReports/DT%201.pdf)
 | 02 | Introduction to Digital Logic | [Lab 02](https://github.com/ashikinsultan/ECE-2112-2410056/blob/05f888aad37b2e372a0a786633e21a7fbb58d3ea/Labreports/DT_Lab_Report_02.pdf)
 </div> 
 </div>
